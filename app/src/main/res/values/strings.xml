@@ -7,7 +7,9 @@
 
 
     <string name="main_fragment_text_first">Main View - Use the Navigation Drawer Menu</string>
+    <string name="first_text">Use the Navigation Drawer Menu</string>
     <string name="more_views_fragment_text">A Placeholder for More Views. End of Navigation Drawer demo.</string>
+    <string name="opening_message">Use the Nvigation Drawer</string>
     <string name="open_drawer">Drawer Open</string>
     <string name="close_drawer">Drawer Closed</string>
     <string name="action_settings">Settings</string>
